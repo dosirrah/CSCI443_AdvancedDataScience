@@ -1,1 +1,3 @@
-# CSCI443_AdvancedDataScience
+# CSCI443 AdvancedDataScience
+
+This repository contains class materials.
