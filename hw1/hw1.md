@@ -7,6 +7,8 @@ header-includes:
 
 # Homework 1
 
+Due: Feb 1 at 11:00 pm.
+
 The purpose of this homework is to get used to using the tools.
 
 
